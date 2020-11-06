@@ -9,9 +9,9 @@ change 2: ->this is for fixing bug1
 
 change 3: ->by team meate on work item 4
 
-change 4: ->for login feature
+change 4: ->for login feature.
 
-change 5:-> bu teamment on main
+change 5:-> bu teamment on main.
 
-change 6: ->for enhancemet1
+change 6: ->for enhancemet1.
 
